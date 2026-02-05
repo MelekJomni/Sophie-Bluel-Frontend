@@ -208,7 +208,7 @@ li:hover {
   display: flex;
   align-items:center;
   gap: 20px;
-  margin-left: 5%;
+  margin-left: 9%;
 }
 #introduction figure {
 	flex: 1
@@ -227,7 +227,7 @@ li:hover {
        
   max-width: 400px;        
   word-wrap: break-word;   
-  margin-right: 110px;
+  margin-right: 160px;
 }
 #introduction h2 {
 	margin-bottom: 1em;
